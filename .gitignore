@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Git metadata
+.git/
+
+# Ignore database file (if you don't want to push it)
+users.db
+
+# Ignore instance folder (if not needed)
+instance/
